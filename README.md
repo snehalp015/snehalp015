@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Snehal Pawar 👋
 
-<!--
-**snehalp015/snehalp015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+### Skills
+- SQL
+- Power BI
+- Excel
+- Power Query
+- DAX
+- Python
+- Data Visualization
+- Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+#### SuperStore Sales Analysis Dashboard
+- Power BI
+- DAX
+- Power Query
+- Sales & Profit Analysis
+
+#### Blinkit Grocery Sales Dashboard
+- SQL
+- Power BI
+- Revenue & Customer Analytics
+
+#### SkinAI - Skin Disease Prediction System
+- Python
+- TensorFlow
+- Flask
+- ReactJS
+
+## 🌐 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/snehalpawar01/
+
+💻 GitHub: https://github.com/snehalp015
